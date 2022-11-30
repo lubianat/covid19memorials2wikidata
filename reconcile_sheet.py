@@ -10,6 +10,10 @@ from wdcuration import convert_date_to_quickstatements
 import wikidata
 from wikidataintegrator import wdi_core, wdi_login
 
+from pathlib import Path
+
+HERE = Path(__file__).parent.resolve()
+
 
 def main():
     global DICTS
@@ -25,14 +29,13 @@ def main():
 
     qs = ""
     for i, row in memorials.iterrows():
-        if row["Altura"] != row["Altura"]:
-            continue
+
         qs += f"""
         CREATE
         LAST|Len|"{row['Nome']}"
         LAST|Lpt|"{row['Nome']}"
         LAST|Den|"COVID-19 memorial in {row['Cidade']}"
-        LAST|Len|"Memorial da COVID-19 em {row['Cidade']}"  
+        LAST|Dpt|"Memorial da COVID-19 em {row['Cidade']}"  
         LAST|P31|Q110852723|S854|"{row['Link da fonte']}"
         LAST|P17|Q155
         LAST|P571|{convert_date_to_quickstatements(str(row['Data de criação']),"%Y%m%d")}
@@ -57,30 +60,26 @@ def main():
 
         if row["Altura"] == row["Altura"]:  # Check for nan
             qs += f"""
-          LAST|P2048|{row["Altura"].replace("m", "")}U11573"""
+          LAST|P2048|{row["Altura"].replace("m", "").replace(",", ".")}U11573"""
 
         if row["Largura"] == row["Largura"]:  # Check for nan
             qs += f"""
-          LAST|P2048|{row["Largura"].replace("m", "")}U11573"""
+          LAST|P2048|{row["Largura"].replace("m", "").replace(",", ".")}U11573"""
 
         if row["Área (m²)"] == row["Área (m²)"]:  # Check for nan
             qs += f"""
-          LAST|P2048|{row["Área (m²)"]}U25343"""
+          LAST|P2048|{str(row["Área (m²)"]).replace(",", ".")}U25343"""
 
         if row["Peso (T)"] == row["Peso (T)"]:  # Check for nan
             qs += f"""
-          LAST|P2048|{row["Peso (T)"]}U191118"""
-
-        lat = str(row["Lat. (sem form.)"])[:2] + "." + str(row["Lat. (sem form.)"])[2:]
-        long = (
-            str(row["Long. (sem form.)"])[:2] + "." + str(row["Long. (sem form.)"])[2:]
-        )
+          LAST|P2048|{str(row["Peso (T)"]).replace(",", ".")}U191118"""
 
         qs += f"""
-        LAST|P625|@-{lat}/-{long}
+        LAST|P625|@{row["Latitude"]}/{row["Longitude"]}
+
         """
-        print(qs)
-        break
+
+    HERE.joinpath("quickstatements.txt").write_text(qs)
 
 
 if __name__ == "__main__":

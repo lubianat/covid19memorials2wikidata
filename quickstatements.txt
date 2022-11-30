@@ -1,0 +1,1138 @@
+
+        CREATE
+        LAST|Len|"Memorial às Vítimas da COVID19 no Brasil  Senado Federal"
+        LAST|Lpt|"Memorial às Vítimas da COVID19 no Brasil  Senado Federal"
+        LAST|Den|"COVID-19 memorial in Brasília"
+        LAST|Dpt|"Memorial da COVID-19 em Brasília"  
+        LAST|P31|Q110852723|S854|"https://www12.senado.leg.br/noticias/materias/2022/02/15/senadoinauguramemorialemhomenagemavitimasdacovid19nobrasil"
+        LAST|P17|Q155
+        LAST|P571|+2022-02-15T00:00:00Z/11
+        LAST|P131|Q2844
+        LAST|P973|"https://www12.senado.leg.br/noticias/materias/2022/02/15/senadoinauguramemorialemhomenagemavitimasdacovid19nobrasil"
+        
+                LAST|P50|Q115474910
+                LAST|P50|Q115475276
+                LAST|P186|Q40861
+                LAST|P31|Q860861
+        LAST|P625|@-15.797735/-47.865042
+
+        
+        CREATE
+        LAST|Len|""O Legado da Coragem""
+        LAST|Lpt|""O Legado da Coragem""
+        LAST|Den|"COVID-19 memorial in Brasília"
+        LAST|Dpt|"Memorial da COVID-19 em Brasília"  
+        LAST|P31|Q110852723|S854|"https://ambr.org.br/olegadodacoragem/?"
+        LAST|P17|Q155
+        LAST|P571|+2021-03-19T00:00:00Z/11
+        LAST|P131|Q2844
+        LAST|P973|"https://ambr.org.br/olegadodacoragem/?"
+        
+                LAST|P50|Q115474923
+                LAST|P31|Q860861
+        LAST|P625|@-15.810846/-47.852755
+
+        
+        CREATE
+        LAST|Len|"Bosque da Esperança  Crato"
+        LAST|Lpt|"Bosque da Esperança  Crato"
+        LAST|Den|"COVID-19 memorial in Crato"
+        LAST|Dpt|"Memorial da COVID-19 em Crato"  
+        LAST|P31|Q110852723|S854|"https://crato.ce.gov.br/informa.php?id=1202"
+        LAST|P17|Q155
+        LAST|P571|+2021-06-21T00:00:00Z/11
+        LAST|P131|Q1004897
+        LAST|P973|"https://crato.ce.gov.br/informa.php?id=1202"
+        
+                LAST|P31|Q3536096
+                LAST|P31|Q4364339
+        LAST|P625|@-7.240573/-39.383576
+
+        
+        CREATE
+        LAST|Len|"Capela Paranista"
+        LAST|Lpt|"Capela Paranista"
+        LAST|Den|"COVID-19 memorial in Curitiba"
+        LAST|Dpt|"Memorial da COVID-19 em Curitiba"  
+        LAST|P31|Q110852723|S854|"https://www.curitiba.pr.gov.br/noticias/comjoaoturinemdestaqueprefeituraentreganestasextafeiraomemorialparanista/58945"
+        LAST|P17|Q155
+        LAST|P571|+2021-05-14T00:00:00Z/11
+        LAST|P131|Q4361
+        LAST|P973|"https://www.curitiba.pr.gov.br/noticias/comjoaoturinemdestaqueprefeituraentreganestasextafeiraomemorialparanista/58945"
+        
+                LAST|P50|Q10312278
+                LAST|P31|Q860861
+        LAST|P625|@-25.387442/-49.267251
+
+        
+        CREATE
+        LAST|Len|"Cruz da Compaixão"
+        LAST|Lpt|"Cruz da Compaixão"
+        LAST|Den|"COVID-19 memorial in Farroupilha"
+        LAST|Dpt|"Memorial da COVID-19 em Farroupilha"  
+        LAST|P31|Q110852723|S854|"https://caravaggio.org.br/noticias/concluidoomonumentocruzdacompaixao"
+        LAST|P17|Q155
+        LAST|P571|+2022-01-30T00:00:00Z/11
+        LAST|P131|Q535531
+        LAST|P973|"https://caravaggio.org.br/noticias/concluidoomonumentocruzdacompaixao"
+        
+                LAST|P50|Q115474931
+                LAST|P186|Q22657
+                LAST|P31|Q860861
+          LAST|P2048|8U11573
+        LAST|P625|@-29.173199/-51.34766
+
+        
+        CREATE
+        LAST|Len|"Em memória pela advocacia vítima da COVID19"
+        LAST|Lpt|"Em memória pela advocacia vítima da COVID19"
+        LAST|Den|"COVID-19 memorial in Maceió"
+        LAST|Dpt|"Memorial da COVID-19 em Maceió"  
+        LAST|P31|Q110852723|S854|"https://www.oabal.org.br/2021/08/nodiadaadvocaciaoabalhomenageiaadvogadoseadvogadasvitimasdacovid19/"
+        LAST|P17|Q155
+        LAST|P571|+2021-08-11T00:00:00Z/11
+        LAST|P131|Q168888
+        LAST|P973|"https://www.oabal.org.br/2021/08/nodiadaadvocaciaoabalhomenageiaadvogadoseadvogadasvitimasdacovid19/"
+        
+                LAST|P31|Q4364339
+        LAST|P625|@-9.618373/-35.692027
+
+        
+        CREATE
+        LAST|Len|"Homenagem do CREMEGO aos médicos que tombaram no combate à COVID19"
+        LAST|Lpt|"Homenagem do CREMEGO aos médicos que tombaram no combate à COVID19"
+        LAST|Den|"COVID-19 memorial in Goiânia"
+        LAST|Dpt|"Memorial da COVID-19 em Goiânia"  
+        LAST|P31|Q110852723|S854|"https://www.jornalopcao.com.br/ultimasnoticias/diadomediconalinhadefrentecontraocoronavirus20profissionaisperderamavidaemgoias290215/"
+        LAST|P17|Q155
+        LAST|P571|+2020-10-18T00:00:00Z/11
+        LAST|P131|Q83189
+        LAST|P973|"https://www.jornalopcao.com.br/ultimasnoticias/diadomediconalinhadefrentecontraocoronavirus20profissionaisperderamavidaemgoias290215/"
+        
+                LAST|P186|Q40861
+                LAST|P31|Q4364339
+        LAST|P625|@-16.689639/-49.278681
+
+        
+        CREATE
+        LAST|Len|"Imensuráveis  Memorial das vítimas da Covid19 em Mato Grosso"
+        LAST|Lpt|"Imensuráveis  Memorial das vítimas da Covid19 em Mato Grosso"
+        LAST|Den|"COVID-19 memorial in Cuiabá"
+        LAST|Dpt|"Memorial da COVID-19 em Cuiabá"  
+        LAST|P31|Q110852723|S854|"https://g1.globo.com/mt/matogrosso/noticia/2020/11/06/museudeartesacrareunefotosedadosdasvitimasdacovid19emmtparamemorialinumeraveis.ghtml"
+        LAST|P17|Q155
+        LAST|P571|+2020-12-03T00:00:00Z/11
+        LAST|P131|Q170762
+        LAST|P973|"https://g1.globo.com/mt/matogrosso/noticia/2020/11/06/museudeartesacrareunefotosedadosdasvitimasdacovid19emmtparamemorialinumeraveis.ghtml"
+        
+                LAST|P31|Q860861
+                LAST|P31|Q29643002
+        LAST|P625|@-15.602262/-56.096486
+
+        
+        CREATE
+        LAST|Len|"Jardim Memorial  Hospital das Clínicas de Marília"
+        LAST|Lpt|"Jardim Memorial  Hospital das Clínicas de Marília"
+        LAST|Den|"COVID-19 memorial in Marília"
+        LAST|Dpt|"Memorial da COVID-19 em Marília"  
+        LAST|P31|Q110852723|S854|"https://mariliadobem.com.br/jardimmemorialhomenageiavitimasdacovid19nohcfamema/"
+        LAST|P17|Q155
+        LAST|P571|+2022-03-19T00:00:00Z/11
+        LAST|P131|Q737660
+        LAST|P973|"https://mariliadobem.com.br/jardimmemorialhomenageiavitimasdacovid19nohcfamema/"
+        
+                LAST|P31|Q3536096
+        LAST|P625|@-22.227065/-49.935965
+
+        
+        CREATE
+        LAST|Len|"Largo da Saúde"
+        LAST|Lpt|"Largo da Saúde"
+        LAST|Den|"COVID-19 memorial in Curitiba"
+        LAST|Dpt|"Memorial da COVID-19 em Curitiba"  
+        LAST|P31|Q110852723|S854|"https://www.curitiba.pr.gov.br/noticias/largodasaudehomenageiavitimaseprofissionaisdocombateacovid19/59570"
+        LAST|P17|Q155
+        LAST|P571|+2021-06-30T00:00:00Z/11
+        LAST|P131|Q4361
+        LAST|P973|"https://www.curitiba.pr.gov.br/noticias/largodasaudehomenageiavitimaseprofissionaisdocombateacovid19/59570"
+        
+                LAST|P50|Q115474934
+                LAST|P50|Q115475279
+                LAST|P31|Q219423
+          LAST|P2048|7U11573
+          LAST|P2048|25U11573
+        LAST|P625|@-25.431435/-49.278343
+
+        
+        CREATE
+        LAST|Len|"Memoráveis Imensuráveis  Memorial dedicado às vítimas da covid19 em Varginha"
+        LAST|Lpt|"Memoráveis Imensuráveis  Memorial dedicado às vítimas da covid19 em Varginha"
+        LAST|Den|"COVID-19 memorial in Varginha"
+        LAST|Dpt|"Memorial da COVID-19 em Varginha"  
+        LAST|P31|Q110852723|S854|"https://www.varginhaonline.com.br/192966/prefeiturainauguramemorialemhomenagemasvitimasdacovid19emvarginha.html"
+        LAST|P17|Q155
+        LAST|P571|+2021-09-30T00:00:00Z/11
+        LAST|P131|Q983524
+        LAST|P973|"https://www.varginhaonline.com.br/192966/prefeiturainauguramemorialemhomenagemasvitimasdacovid19emvarginha.html"
+        
+                LAST|P31|Q4364339
+        LAST|P625|@-21.575711/-45.412596
+
+        
+        CREATE
+        LAST|Len|"Memorial à Nossa Senhora Aparecida pelas vítimas da Covid19"
+        LAST|Lpt|"Memorial à Nossa Senhora Aparecida pelas vítimas da Covid19"
+        LAST|Den|"COVID-19 memorial in Poá"
+        LAST|Dpt|"Memorial da COVID-19 em Poá"  
+        LAST|P31|Q110852723|S854|"https://jornallogica.com.br/2022/05/30/igrejadepoaganhamemorialemhomenagemasvitimasdacovid19/"
+        LAST|P17|Q155
+        LAST|P571|+2022-05-29T00:00:00Z/11
+        LAST|P131|Q377601
+        LAST|P973|"https://jornallogica.com.br/2022/05/30/igrejadepoaganhamemorialemhomenagemasvitimasdacovid19/"
+        
+                LAST|P50|Q115474946
+                LAST|P186|Q677
+                LAST|P186|Q45190
+                LAST|P31|Q860861
+          LAST|P2048|5U11573
+        LAST|P625|@-23.510869/-46.36584
+
+        
+        CREATE
+        LAST|Len|"Memorial Anjos"
+        LAST|Lpt|"Memorial Anjos"
+        LAST|Den|"COVID-19 memorial in Recife"
+        LAST|Dpt|"Memorial da COVID-19 em Recife"  
+        LAST|P31|Q110852723|S854|"https://www.uninassau.edu.br/noticias/recifeganhamonumentoemhomenagemvitimasdecovid19"
+        LAST|P17|Q155
+        LAST|P571|+2020-12-23T00:00:00Z/11
+        LAST|P131|Q48344
+        LAST|P973|"https://www.uninassau.edu.br/noticias/recifeganhamonumentoemhomenagemvitimasdecovid19"
+        
+                LAST|P50|Q115474959
+                LAST|P186|Q172587
+                LAST|P31|Q860861
+          LAST|P2048|1.4U11573
+        LAST|P625|@-8.054322/-34.901783
+
+        
+        CREATE
+        LAST|Len|"Memorial aos mortos por Covid19 na Maré"
+        LAST|Lpt|"Memorial aos mortos por Covid19 na Maré"
+        LAST|Den|"COVID-19 memorial in Rio de Janeiro"
+        LAST|Dpt|"Memorial da COVID-19 em Rio de Janeiro"  
+        LAST|P31|Q110852723|S854|"https://extra.globo.com/noticias/rio/covid19pandemiavaipassarmasmuralvaicontinuardizfamiliardevitimahomenageadaemmemorialinauguradonocomplexodamare25277404.html"
+        LAST|P17|Q155
+        LAST|P571|+2021-11-15T00:00:00Z/11
+        LAST|P131|Q8678
+        LAST|P973|"https://extra.globo.com/noticias/rio/covid19pandemiavaipassarmasmuralvaicontinuardizfamiliardevitimahomenageadaemmemorialinauguradonocomplexodamare25277404.html"
+        
+                LAST|P186|Q28679020
+                LAST|P31|Q219423
+          LAST|P2048|2U11573
+          LAST|P2048|10U11573
+        LAST|P625|@-22.853794/-43.24634
+
+        
+        CREATE
+        LAST|Len|"Memorial às vítimas da Covid19  Hospital CASSEMS Campo Grande (MS)"
+        LAST|Lpt|"Memorial às vítimas da Covid19  Hospital CASSEMS Campo Grande (MS)"
+        LAST|Den|"COVID-19 memorial in Campo Grande"
+        LAST|Dpt|"Memorial da COVID-19 em Campo Grande"  
+        LAST|P31|Q110852723|S854|"https://www.acritica.net/editorias/coronavirus/emseuaniversariode5anoshospitalcassemscampograndeinaugura/555656/"
+        LAST|P17|Q155
+        LAST|P571|+2021-10-07T00:00:00Z/11
+        LAST|P131|Q168929
+        LAST|P973|"https://www.acritica.net/editorias/coronavirus/emseuaniversariode5anoshospitalcassemscampograndeinaugura/555656/"
+        
+                LAST|P31|Q4364339
+        LAST|P625|@-20.447612/-54.570347
+
+        
+        CREATE
+        LAST|Len|"Memorial às Vítimas da COVID19 (Bragança Paulista)"
+        LAST|Lpt|"Memorial às Vítimas da COVID19 (Bragança Paulista)"
+        LAST|Den|"COVID-19 memorial in Bragança Paulista"
+        LAST|Dpt|"Memorial da COVID-19 em Bragança Paulista"  
+        LAST|P31|Q110852723|S854|"https://fm102.com.br/bragancapaulistainauguramemorialemhomenagemasvitimasdacovid19/"
+        LAST|P17|Q155
+        LAST|P571|+2021-02-05T00:00:00Z/11
+        LAST|P131|Q897232
+        LAST|P973|"https://fm102.com.br/bragancapaulistainauguramemorialemhomenagemasvitimasdacovid19/"
+        
+                LAST|P50|Q115474968
+                LAST|P186|Q5861
+                LAST|P186|Q22657
+                LAST|P31|Q860861
+          LAST|P2048|4U11573
+          LAST|P2048|2.65U11573
+        LAST|P625|@-22.948257/-46.542045
+
+        
+        CREATE
+        LAST|Len|"Memorial às Vítimas da COVID19 (Igreja Matriz de Manacapuru)"
+        LAST|Lpt|"Memorial às Vítimas da COVID19 (Igreja Matriz de Manacapuru)"
+        LAST|Den|"COVID-19 memorial in Manacapuru"
+        LAST|Dpt|"Memorial da COVID-19 em Manacapuru"  
+        LAST|P31|Q110852723|S854|"https://web.archive.org/web/20220319184154/https://www.manacapuru.am.gov.br/memorialvitimascovid.php"
+        LAST|P17|Q155
+        LAST|P571|+2021-04-02T00:00:00Z/11
+        LAST|P131|Q983526
+        LAST|P973|"https://web.archive.org/web/20220319184154/https://www.manacapuru.am.gov.br/memorialvitimascovid.php"
+        
+                LAST|P186|Q41177
+                LAST|P31|Q4364339
+        LAST|P625|@-3.30038/-60.621378
+
+        
+        CREATE
+        LAST|Len|"Memorial Cidade de Deus contra a COVID"
+        LAST|Lpt|"Memorial Cidade de Deus contra a COVID"
+        LAST|Den|"COVID-19 memorial in Rio de Janeiro"
+        LAST|Dpt|"Memorial da COVID-19 em Rio de Janeiro"  
+        LAST|P31|Q110852723|S854|"https://www.facebook.com/coletivocddcontracovid/posts/pfbid02rZ16zbrcUrZBg8fs62KbcEp3a4ozpxcegbRgkTibNso94j62xzZanUx3m9bPvE9el?__cft__[0]=AZW9VpGIhbw9JFupJXJC5YimHzBAtPIA7Ow2k_n7EdOjYndCtgbfxB8CXJOzRun0Se6rcDtBQCMErU7Yf0iu63MR3CGyEsnOsmC77R0NNywBIj1PteSWhYpOyhD9og5nQ&__tn__=%2CO%2CPR"
+        LAST|P17|Q155
+        LAST|P571|+2021-04-18T00:00:00Z/11
+        LAST|P131|Q8678
+        LAST|P973|"https://www.facebook.com/coletivocddcontracovid/posts/pfbid02rZ16zbrcUrZBg8fs62KbcEp3a4ozpxcegbRgkTibNso94j62xzZanUx3m9bPvE9el?__cft__[0]=AZW9VpGIhbw9JFupJXJC5YimHzBAtPIA7Ow2k_n7EdOjYndCtgbfxB8CXJOzRun0Se6rcDtBQCMErU7Yf0iu63MR3CGyEsnOsmC77R0NNywBIj1PteSWhYpOyhD9og5nQ&__tn__=%2CO%2CPR"
+        
+                LAST|P50|Q115474991
+                LAST|P50|Q115475281
+                LAST|P186|Q287
+                LAST|P186|Q677
+                LAST|P31|Q860861
+        LAST|P625|@-22.947318/-43.360428
+
+        
+        CREATE
+        LAST|Len|"Memorial da Advocacia de Santa Catarina"
+        LAST|Lpt|"Memorial da Advocacia de Santa Catarina"
+        LAST|Den|"COVID-19 memorial in Florianópolis"
+        LAST|Dpt|"Memorial da COVID-19 em Florianópolis"  
+        LAST|P31|Q110852723|S854|"https://www.oabsc.org.br/noticias/jardimmemorialadvocacianaoabschomenageiaadvogadoscatarinensesvitimascovid19/19256"
+        LAST|P17|Q155
+        LAST|P571|+2021-09-16T00:00:00Z/11
+        LAST|P131|Q132997
+        LAST|P973|"https://www.oabsc.org.br/noticias/jardimmemorialadvocacianaoabschomenageiaadvogadoscatarinensesvitimascovid19/19256"
+        
+                LAST|P31|Q4364339
+                LAST|P31|Q3536096
+        LAST|P625|@-27.573412/-48.530455
+
+        
+        CREATE
+        LAST|Len|"Memorial da Despedida"
+        LAST|Lpt|"Memorial da Despedida"
+        LAST|Den|"COVID-19 memorial in Goiânia"
+        LAST|Dpt|"Memorial da COVID-19 em Goiânia"  
+        LAST|P31|Q110852723|S854|"https://www.facebook.com/watch/?v=812733269580957"
+        LAST|P17|Q155
+        LAST|P571|+2020-10-30T00:00:00Z/11
+        LAST|P131|Q83189
+        LAST|P973|"https://www.facebook.com/watch/?v=812733269580957"
+        
+                LAST|P50|Q115474997
+                LAST|P31|Q860861
+        LAST|P625|@-16.735612/-49.161522
+
+        
+        CREATE
+        LAST|Len|"Memorial da Gratidão"
+        LAST|Lpt|"Memorial da Gratidão"
+        LAST|Den|"COVID-19 memorial in Porto Alegre"
+        LAST|Dpt|"Memorial da COVID-19 em Porto Alegre"  
+        LAST|P31|Q110852723|S854|"https://www.amrigs.org.br/noticias/6152"
+        LAST|P17|Q155
+        LAST|P571|+2021-12-16T00:00:00Z/11
+        LAST|P131|Q40269
+        LAST|P973|"https://www.amrigs.org.br/noticias/6152"
+        
+                LAST|P50|Q115475003
+                LAST|P186|Q840688
+                LAST|P186|Q34095
+                LAST|P31|Q860861
+          LAST|P2048|2.65U11573
+          LAST|P2048|7.5U11573
+        LAST|P625|@-30.058065/-51.185686
+
+        
+        CREATE
+        LAST|Len|"Memorial da luta contra a Covid19 Enfermeira Denise Gomes"
+        LAST|Lpt|"Memorial da luta contra a Covid19 Enfermeira Denise Gomes"
+        LAST|Den|"COVID-19 memorial in Maricá"
+        LAST|Dpt|"Memorial da COVID-19 em Maricá"  
+        LAST|P31|Q110852723|S854|"https://www.marica.rj.gov.br/noticia/memorialasvitimasdacovid19einauguradoemmarica/"
+        LAST|P17|Q155
+        LAST|P571|+2021-03-12T00:00:00Z/11
+        LAST|P131|Q847037
+        LAST|P973|"https://www.marica.rj.gov.br/noticia/memorialasvitimasdacovid19einauguradoemmarica/"
+        
+                LAST|P50|Q115475008
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-22.927725/-42.869081
+
+        
+        CREATE
+        LAST|Len|"Memorial da Saudade em Juazeiro "
+        LAST|Lpt|"Memorial da Saudade em Juazeiro "
+        LAST|Den|"COVID-19 memorial in Petrolina"
+        LAST|Dpt|"Memorial da COVID-19 em Petrolina"  
+        LAST|P31|Q110852723|S854|"http://acaopopular.net/jornal/petrolinaejuazeirocomemoramdiamundialdomeioambientecomplantiodemudasehomenagens/"
+        LAST|P17|Q155
+        LAST|P571|+2021-06-05T00:00:00Z/11
+        LAST|P131|Q842143
+        LAST|P973|"http://acaopopular.net/jornal/petrolinaejuazeirocomemoramdiamundialdomeioambientecomplantiodemudasehomenagens/"
+        
+                LAST|P31|Q3536096
+                LAST|P31|Q4364339
+        LAST|P625|@-9.412315/-40.495691
+
+        
+        CREATE
+        LAST|Len|"Memorial dedicado aos servidores públicos vítimas da COVID19"
+        LAST|Lpt|"Memorial dedicado aos servidores públicos vítimas da COVID19"
+        LAST|Den|"COVID-19 memorial in Campo Largo"
+        LAST|Dpt|"Memorial da COVID-19 em Campo Largo"  
+        LAST|P31|Q110852723|S854|"https://grandecuritiba.info/campolargo/2021/10/29/diadoservidorpublicoemcampolargoemarcadoporemocaoeagradecimentos"
+        LAST|P17|Q155
+        LAST|P571|+2021-10-28T00:00:00Z/11
+        LAST|P131|Q1026376
+        LAST|P973|"https://grandecuritiba.info/campolargo/2021/10/29/diadoservidorpublicoemcampolargoemarcadoporemocaoeagradecimentos"
+        
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-25.455144/-49.518039
+
+        
+        CREATE
+        LAST|Len|"Memorial do Renascimento"
+        LAST|Lpt|"Memorial do Renascimento"
+        LAST|Den|"COVID-19 memorial in Ribeirão Pires"
+        LAST|Dpt|"Memorial da COVID-19 em Ribeirão Pires"  
+        LAST|P31|Q110852723|S854|"https://www.reporterdiario.com.br/noticia/3099660/obrasdememorialasvitimasdacoviddividemopinioesemrpires/"
+        LAST|P17|Q155
+        LAST|P571|+2021-06-09T00:00:00Z/11
+        LAST|P131|Q927935
+        LAST|P973|"https://www.reporterdiario.com.br/noticia/3099660/obrasdememorialasvitimasdacoviddividemopinioesemrpires/"
+        
+                LAST|P31|Q174782
+        LAST|P625|@-23.712738/-46.41313
+
+        
+        CREATE
+        LAST|Len|"Memorial do SINTUSP em homenagem aos mortos por COVID19"
+        LAST|Lpt|"Memorial do SINTUSP em homenagem aos mortos por COVID19"
+        LAST|Den|"COVID-19 memorial in Ribeirão Preto"
+        LAST|Dpt|"Memorial da COVID-19 em Ribeirão Preto"  
+        LAST|P31|Q110852723|S854|"https://www.sintusp.org.br/2022/08/22/sintuspribeiraoinauguramemorialemhomenagemaosmortosporcovid/"
+        LAST|P17|Q155
+        LAST|P571|+2022-08-22T00:00:00Z/11
+        LAST|P131|Q188892
+        LAST|P973|"https://www.sintusp.org.br/2022/08/22/sintuspribeiraoinauguramemorialemhomenagemaosmortosporcovid/"
+        
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-21.164918/-47.862319
+
+        
+        CREATE
+        LAST|Len|"Memorial em Boa Vista  Bosque dos Papagaios"
+        LAST|Lpt|"Memorial em Boa Vista  Bosque dos Papagaios"
+        LAST|Den|"COVID-19 memorial in Boa Vista"
+        LAST|Dpt|"Memorial da COVID-19 em Boa Vista"  
+        LAST|P31|Q110852723|S854|"https://boavista.rr.gov.br/noticias/2021/6/meioambienteprefeiturahomenageiavitimasdacovid19emmemorialnobosquedospapagaios?f=2548833421480690989"
+        LAST|P17|Q155
+        LAST|P571|+2021-06-11T00:00:00Z/11
+        LAST|P131|Q181056
+        LAST|P973|"https://boavista.rr.gov.br/noticias/2021/6/meioambienteprefeiturahomenageiavitimasdacovid19emmemorialnobosquedospapagaios?f=2548833421480690989"
+        
+                LAST|P31|Q3536096
+        LAST|P625|@2.859206/-60.657663
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem aos médicos falecidos pela Covid19"
+        LAST|Lpt|"Memorial em homenagem aos médicos falecidos pela Covid19"
+        LAST|Den|"COVID-19 memorial in São Paulo"
+        LAST|Dpt|"Memorial da COVID-19 em São Paulo"  
+        LAST|P31|Q110852723|S854|"https://portalmedicinaesaude.com/memorialdoconselhoregionaldemedicinadoestadodesaopaulohomenageiamedicosfalecidospelacovid19/"
+        LAST|P17|Q155
+        LAST|P571|+2021-10-27T00:00:00Z/11
+        LAST|P131|Q174
+        LAST|P973|"https://portalmedicinaesaude.com/memorialdoconselhoregionaldemedicinadoestadodesaopaulohomenageiamedicosfalecidospelacovid19/"
+        
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-23.556109/-46.656757
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da Covid  Olímpia (SP)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da Covid  Olímpia (SP)"
+        LAST|Den|"COVID-19 memorial in Olímpia"
+        LAST|Dpt|"Memorial da COVID-19 em Olímpia"  
+        LAST|P31|Q110852723|S854|"https://www.olimpia.sp.gov.br/portal/noticias/0/3/4948/olimpiaconstroioprimeiromemorialemhomenagemasvitimasdacoviddonoroestepaulista"
+        LAST|P17|Q155
+        LAST|P571|+2021-04-03T00:00:00Z/11
+        LAST|P131|Q636096
+        LAST|P973|"https://www.olimpia.sp.gov.br/portal/noticias/0/3/4948/olimpiaconstroioprimeiromemorialemhomenagemasvitimasdacoviddonoroestepaulista"
+        
+                LAST|P50|Q115475015
+                LAST|P50|Q115475284
+                LAST|P186|Q11427
+                LAST|P186|Q5861
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+                LAST|P31|Q174782
+          LAST|P2048|3U11573
+        LAST|P625|@-20.747526/-48.914845
+
+        
+        CREATE
+        LAST|Len|"Memorial em Homenagem às Vítimas da Covid  Vila Velha (ES)"
+        LAST|Lpt|"Memorial em Homenagem às Vítimas da Covid  Vila Velha (ES)"
+        LAST|Den|"COVID-19 memorial in Vila Velha"
+        LAST|Dpt|"Memorial da COVID-19 em Vila Velha"  
+        LAST|P31|Q110852723|S854|"https://www.agoraes.com.br/noticia/26900/feearteseunememesculturafeitaporartistacapixabaparahomenagearvitimasdacovid19"
+        LAST|P17|Q155
+        LAST|P571|+2022-01-30T00:00:00Z/11
+        LAST|P131|Q334197
+        LAST|P973|"https://www.agoraes.com.br/noticia/26900/feearteseunememesculturafeitaporartistacapixabaparahomenagearvitimasdacovid19"
+        
+                LAST|P50|Q115475085
+                LAST|P186|Q22656
+                LAST|P186|Q40861
+                LAST|P31|Q860861
+        LAST|P625|@-20.335445/-40.283944
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da COVID19  Cabreúva (SP)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da COVID19  Cabreúva (SP)"
+        LAST|Den|"COVID-19 memorial in Cabreúva"
+        LAST|Dpt|"Memorial da COVID-19 em Cabreúva"  
+        LAST|P31|Q110852723|S854|"https://www.cabreuva.sp.gov.br/noticias+home/novo+cartao+postal+da+cidade+cabreuva+ganha+parque+para+esporte+e+lazer.aspx"
+        LAST|P17|Q155
+        LAST|P571|+2021-12-18T00:00:00Z/11
+        LAST|P131|Q1760058
+        LAST|P973|"https://www.cabreuva.sp.gov.br/noticias+home/novo+cartao+postal+da+cidade+cabreuva+ganha+parque+para+esporte+e+lazer.aspx"
+        
+                LAST|P31|Q3536096
+                LAST|P31|Q4364339
+        LAST|P625|@-23.266985/-47.052705
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da COVID19  Itatiba (SP)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da COVID19  Itatiba (SP)"
+        LAST|Den|"COVID-19 memorial in Itatiba"
+        LAST|Dpt|"Memorial da COVID-19 em Itatiba"  
+        LAST|P31|Q110852723|S854|"https://www.crnitatiba.com.br/plantiodearvoresemonumentohomenageiam325vitimasdecovid19emitatiba"
+        LAST|P17|Q155
+        LAST|P571|+2021-12-03T00:00:00Z/11
+        LAST|P131|Q773065
+        LAST|P973|"https://www.crnitatiba.com.br/plantiodearvoresemonumentohomenageiam325vitimasdecovid19emitatiba"
+        
+                LAST|P31|Q860861
+                LAST|P31|Q3536096
+        LAST|P625|@-20.335445/-40.283944
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da COVID19  Mamanguape (PB)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da COVID19  Mamanguape (PB)"
+        LAST|Den|"COVID-19 memorial in Mamanguape"
+        LAST|Dpt|"Memorial da COVID-19 em Mamanguape"  
+        LAST|P31|Q110852723|S854|"https://www.mamanguape.pb.gov.br/atoecumenicomarcaainauguracaodocemiterioparquedasaudadenobairrodoareial/"
+        LAST|P17|Q155
+        LAST|P571|+2021-07-29T00:00:00Z/11
+        LAST|P131|Q1008338
+        LAST|P973|"https://www.mamanguape.pb.gov.br/atoecumenicomarcaainauguracaodocemiterioparquedasaudadenobairrodoareial/"
+        
+                LAST|P31|Q4364339
+        LAST|P625|@-6.835036/-35.138354
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da COVID19  Paranaguá (PR)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da COVID19  Paranaguá (PR)"
+        LAST|Den|"COVID-19 memorial in Paranaguá"
+        LAST|Dpt|"Memorial da COVID-19 em Paranaguá"  
+        LAST|P31|Q110852723|S854|"https://www.paranagua.pr.gov.br/noticias/noticia1580.html"
+        LAST|P17|Q155
+        LAST|P571|+2022-07-26T00:00:00Z/11
+        LAST|P131|Q503852
+        LAST|P973|"https://www.paranagua.pr.gov.br/noticias/noticia1580.html"
+        
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-25.534598/-48.526139
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da COVID19  Pérola (PR)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da COVID19  Pérola (PR)"
+        LAST|Den|"COVID-19 memorial in Pérola"
+        LAST|Dpt|"Memorial da COVID-19 em Pérola"  
+        LAST|P31|Q110852723|S854|"http://www.perola.pr.gov.br//index.php?sessao=b0546033689fb0&id=1121439&id_secretaria=1832"
+        LAST|P17|Q155
+        LAST|P571|+2021-09-14T00:00:00Z/11
+        LAST|P131|Q1781000
+        LAST|P973|"http://www.perola.pr.gov.br//index.php?sessao=b0546033689fb0&id=1121439&id_secretaria=1832"
+        
+                LAST|P186|Q22731
+                LAST|P31|Q860861
+        LAST|P625|@-23.80362119493893/-53.68754961275789
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da COVID19  Petrópolis (RJ)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da COVID19  Petrópolis (RJ)"
+        LAST|Den|"COVID-19 memorial in Petrópolis"
+        LAST|Dpt|"Memorial da COVID-19 em Petrópolis"  
+        LAST|P31|Q110852723|S854|"https://soupetropolis.com/2021/11/25/petropolisganhamemorialemhomenagemasvitimasdacovid19/"
+        LAST|P17|Q155
+        LAST|P571|+2021-11-25T00:00:00Z/11
+        LAST|P131|Q189043
+        LAST|P973|"https://soupetropolis.com/2021/11/25/petropolisganhamemorialemhomenagemasvitimasdacovid19/"
+        
+                LAST|P50|Q115475095
+                LAST|P50|Q115475289
+                LAST|P31|Q219423
+        LAST|P625|@-22.453949/-43.143488
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da COVID19  Pouso Redondo (SC)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da COVID19  Pouso Redondo (SC)"
+        LAST|Den|"COVID-19 memorial in Pouso Redondo"
+        LAST|Dpt|"Memorial da COVID-19 em Pouso Redondo"  
+        LAST|P31|Q110852723|S854|"https://www.pousoredondo.sc.gov.br/noticias/ver/2021/12/memorialemhomenagemasvitimasdacovid19einaugurado"
+        LAST|P17|Q155
+        LAST|P571|+2021-12-16T00:00:00Z/11
+        LAST|P131|Q1796818
+        LAST|P973|"https://www.pousoredondo.sc.gov.br/noticias/ver/2021/12/memorialemhomenagemasvitimasdacovid19einaugurado"
+        
+                LAST|P50|Q115474942
+                LAST|P186|Q677
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+                LAST|P31|Q3536096
+        LAST|P625|@-27.272311/-49.929648
+
+        
+        CREATE
+        LAST|Len|"Memorial em Homenagem às Vítimas da Covid19  Rio Branco (AC)"
+        LAST|Lpt|"Memorial em Homenagem às Vítimas da Covid19  Rio Branco (AC)"
+        LAST|Den|"COVID-19 memorial in Rio Branco"
+        LAST|Dpt|"Memorial da COVID-19 em Rio Branco"  
+        LAST|P31|Q110852723|S854|"https://agencia.ac.gov.br/memorialasvitimasdacovid19einauguradopelogovernodoacre/"
+        LAST|P17|Q155
+        LAST|P571|+2022-01-11T00:00:00Z/11
+        LAST|P131|Q171612
+        LAST|P973|"https://agencia.ac.gov.br/memorialasvitimasdacovid19einauguradopelogovernodoacre/"
+        
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-9.961781/-67.857592
+
+        
+        CREATE
+        LAST|Len|"Memorial em Homenagem às Vítimas da Covid19  Serra Talhada (PE)"
+        LAST|Lpt|"Memorial em Homenagem às Vítimas da Covid19  Serra Talhada (PE)"
+        LAST|Den|"COVID-19 memorial in Serra Talhada"
+        LAST|Dpt|"Memorial da COVID-19 em Serra Talhada"  
+        LAST|P31|Q110852723|S854|"https://www.portalcabrobonews.com.br/noticia/prefeituradeserratalhadainauguramemorialemhomenagemasvitimasdacovid19"
+        LAST|P17|Q155
+        LAST|P571|+2022-08-10T00:00:00Z/11
+        LAST|P131|Q2000133
+        LAST|P973|"https://www.portalcabrobonews.com.br/noticia/prefeituradeserratalhadainauguramemorialemhomenagemasvitimasdacovid19"
+        
+                LAST|P31|Q174782
+                LAST|P31|Q3536096
+          LAST|P2048|1400.0U25343
+        LAST|P625|@-7.984911/-38.298136
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da COVID19  Venâncio Aires (RS)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da COVID19  Venâncio Aires (RS)"
+        LAST|Den|"COVID-19 memorial in Venâncio Aires"
+        LAST|Dpt|"Memorial da COVID-19 em Venâncio Aires"  
+        LAST|P31|Q110852723|S854|"https://www.portalarauto.com.br/Pages/207707/memorialasvitimasdacovid19einauguradonocentrodevenancio"
+        LAST|P17|Q155
+        LAST|P571|+2022-04-25T00:00:00Z/11
+        LAST|P131|Q983517
+        LAST|P973|"https://www.portalarauto.com.br/Pages/207707/memorialasvitimasdacovid19einauguradonocentrodevenancio"
+        
+                LAST|P31|Q4364339
+                LAST|P31|Q3536096
+        LAST|P625|@-29.606479/-52.191769
+
+        
+        CREATE
+        LAST|Len|"Memorial AVARC"
+        LAST|Lpt|"Memorial AVARC"
+        LAST|Den|"COVID-19 memorial in São Paulo"
+        LAST|Dpt|"Memorial da COVID-19 em São Paulo"  
+        LAST|P31|Q110852723|S854|"https://ciclovivo.com.br/inovacao/inspiracao/saopaulomemorialhomenagemcovid19/"
+        LAST|P17|Q155
+        LAST|P571|+2021-01-25T00:00:00Z/11
+        LAST|P131|Q174
+        LAST|P973|"https://ciclovivo.com.br/inovacao/inspiracao/saopaulomemorialhomenagemcovid19/"
+        
+                LAST|P50|Q115475105
+                LAST|P50|Q115475299
+                LAST|P50|Q115475311
+                LAST|P31|Q860861
+                LAST|P31|Q3536096
+        LAST|P625|@-23.583202/-46.477125
+
+        
+        CREATE
+        LAST|Len|"Memorial Gratidão"
+        LAST|Lpt|"Memorial Gratidão"
+        LAST|Den|"COVID-19 memorial in Vitória"
+        LAST|Dpt|"Memorial da COVID-19 em Vitória"  
+        LAST|P31|Q110852723|S854|"https://portalcontexto.com.br/vitorianoespiritosantoganhamonumentoemhomenagemaosprofissionaisdasaudequeperderamavidanapandemia/"
+        LAST|P17|Q155
+        LAST|P571|+2021-12-19T00:00:00Z/11
+        LAST|P131|Q168376
+        LAST|P973|"https://portalcontexto.com.br/vitorianoespiritosantoganhamonumentoemhomenagemaosprofissionaisdasaudequeperderamavidanapandemia/"
+        
+                LAST|P50|Q115475111
+                LAST|P186|Q22657
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+          LAST|P2048|7U11573
+        LAST|P625|@-20.283058/-40.289366
+
+        
+        CREATE
+        LAST|Len|"Memorial InFinito"
+        LAST|Lpt|"Memorial InFinito"
+        LAST|Den|"COVID-19 memorial in Rio de Janeiro"
+        LAST|Dpt|"Memorial da COVID-19 em Rio de Janeiro"  
+        LAST|P31|Q110852723|S854|"https://extra.globo.com/noticias/rio/vitimasdacovid19noriosaohomenageadascommonumentomemorialemcemiterionocaju24648046.html"
+        LAST|P17|Q155
+        LAST|P571|+2020-09-20T00:00:00Z/11
+        LAST|P131|Q8678
+        LAST|P973|"https://extra.globo.com/noticias/rio/vitimasdacovid19noriosaohomenageadascommonumentomemorialemcemiterionocaju24648046.html"
+        
+                LAST|P50|Q115475117
+                LAST|P186|Q11427
+                LAST|P31|Q860861
+          LAST|P2048|39U11573
+          LAST|P2048|3.0U191118
+        LAST|P625|@-22.886752/-43.220708
+
+        
+        CREATE
+        LAST|Len|"Memorial Mãos do Universo"
+        LAST|Lpt|"Memorial Mãos do Universo"
+        LAST|Den|"COVID-19 memorial in Rio de Janeiro"
+        LAST|Dpt|"Memorial da COVID-19 em Rio de Janeiro"  
+        LAST|P31|Q110852723|S854|"https://blogs.oglobo.globo.com/ancelmo/post/jardimdasaudadefaztunelcom70milfloresrepresentandovitimasdacovidnorio.html"
+        LAST|P17|Q155
+        LAST|P571|+2021-10-30T00:00:00Z/11
+        LAST|P131|Q8678
+        LAST|P973|"https://blogs.oglobo.globo.com/ancelmo/post/jardimdasaudadefaztunelcom70milfloresrepresentandovitimasdacovidnorio.html"
+        
+                LAST|P50|Q115475138
+                LAST|P31|Q860861
+        LAST|P625|@-22.891626/-43.401997
+
+        
+        CREATE
+        LAST|Len|"Memorial para honrar as vítimas da COVID19 (Barueri)"
+        LAST|Lpt|"Memorial para honrar as vítimas da COVID19 (Barueri)"
+        LAST|Den|"COVID-19 memorial in Barueri"
+        LAST|Dpt|"Memorial da COVID-19 em Barueri"  
+        LAST|P31|Q110852723|S854|"https://portal.barueri.sp.gov.br/Noticia/21052021pracadomemorialhomenageiavitimasdacovid19"
+        LAST|P17|Q155
+        LAST|P571|+2021-05-21T00:00:00Z/11
+        LAST|P131|Q461773
+        LAST|P973|"https://portal.barueri.sp.gov.br/Noticia/21052021pracadomemorialhomenageiavitimasdacovid19"
+        
+                LAST|P50|Q115475170
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-23.490185/-46.866673
+
+        
+        CREATE
+        LAST|Len|"Memorial Reencontro"
+        LAST|Lpt|"Memorial Reencontro"
+        LAST|Den|"COVID-19 memorial in Rio de Janeiro"
+        LAST|Dpt|"Memorial da COVID-19 em Rio de Janeiro"  
+        LAST|P31|Q110852723|S854|"https://www.vaticannews.va/pt/igreja/news/202011/diadefinadosarquidioceseriodejaneiromemorialoracao.html"
+        LAST|P17|Q155
+        LAST|P571|+2020-11-02T00:00:00Z/11
+        LAST|P131|Q8678
+        LAST|P973|"https://www.vaticannews.va/pt/igreja/news/202011/diadefinadosarquidioceseriodejaneiromemorialoracao.html"
+        
+                LAST|P50|Q115475204
+                LAST|P31|Q860861
+                LAST|P31|Q174782
+        LAST|P625|@-22.89034/-43.403753
+
+        
+        CREATE
+        LAST|Len|"Memorial Saúde  Três de Maio (RS)"
+        LAST|Lpt|"Memorial Saúde  Três de Maio (RS)"
+        LAST|Den|"COVID-19 memorial in Três de Maio"
+        LAST|Dpt|"Memorial da COVID-19 em Três de Maio"  
+        LAST|P31|Q110852723|S854|"https://www.pmtresdemaio.com.br/site/Noticias/saude/64842municipioinauguramemorialsaude#prettyPhoto"
+        LAST|P17|Q155
+        LAST|P571|+2021-10-28T00:00:00Z/11
+        LAST|P131|Q1786482
+        LAST|P973|"https://www.pmtresdemaio.com.br/site/Noticias/saude/64842municipioinauguramemorialsaude#prettyPhoto"
+        
+                LAST|P186|Q22731
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+                LAST|P31|Q3536096
+        LAST|P625|@-27.766722/-54.235725
+
+        
+        CREATE
+        LAST|Len|"Memorial Silvia Regina Fernandes Davides"
+        LAST|Lpt|"Memorial Silvia Regina Fernandes Davides"
+        LAST|Den|"COVID-19 memorial in Bariri"
+        LAST|Dpt|"Memorial da COVID-19 em Bariri"  
+        LAST|P31|Q110852723|S854|"https://jornalcandeia.com.br/cidade/memorialhomenageiavitimasdacovidembariri/"
+        LAST|P17|Q155
+        LAST|P571|+2021-11-02T00:00:00Z/11
+        LAST|P131|Q1759107
+        LAST|P973|"https://jornalcandeia.com.br/cidade/memorialhomenageiavitimasdacovidembariri/"
+        
+                LAST|P50|Q115475208
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-22.068693/-48.74689
+
+        
+        CREATE
+        LAST|Len|"Memorial Vítimas da Covid19  Guaratuba (PR)"
+        LAST|Lpt|"Memorial Vítimas da Covid19  Guaratuba (PR)"
+        LAST|Den|"COVID-19 memorial in Guaratuba"
+        LAST|Dpt|"Memorial da COVID-19 em Guaratuba"  
+        LAST|P31|Q110852723|S854|"http://portal.guaratuba.pr.gov.br/noticia/2183/titulo/guaratubainauguramemorialemhomenagemasvatimasdacovid19"
+        LAST|P17|Q155
+        LAST|P571|+2021-11-02T00:00:00Z/11
+        LAST|P131|Q1779983
+        LAST|P973|"http://portal.guaratuba.pr.gov.br/noticia/2183/titulo/guaratubainauguramemorialemhomenagemasvatimasdacovid19"
+        
+                LAST|P50|Q115475214
+                LAST|P186|Q28679020
+                LAST|P31|Q860861
+        LAST|P625|@-25.883463/-48.582451
+
+        
+        CREATE
+        LAST|Len|"Memorial vivo às vítimas da COVID19"
+        LAST|Lpt|"Memorial vivo às vítimas da COVID19"
+        LAST|Den|"COVID-19 memorial in Salvador"
+        LAST|Dpt|"Memorial da COVID-19 em Salvador"  
+        LAST|P31|Q110852723|S854|"https://www.cese.org.br/diversasexpressoesdefesereunemparahomenagearvitimasdacovideesperancarportemposmelhores/"
+        LAST|P17|Q155
+        LAST|P571|+2022-03-29T00:00:00Z/11
+        LAST|P131|Q36947
+        LAST|P973|"https://www.cese.org.br/diversasexpressoesdefesereunemparahomenagearvitimasdacovideesperancarportemposmelhores/"
+        
+                LAST|P31|Q3536096
+                LAST|P31|Q4364339
+        LAST|P625|@-12.89865/-38.471232
+
+        
+        CREATE
+        LAST|Len|"Monumento "Memorial""
+        LAST|Lpt|"Monumento "Memorial""
+        LAST|Den|"COVID-19 memorial in Campinas"
+        LAST|Dpt|"Memorial da COVID-19 em Campinas"  
+        LAST|P31|Q110852723|S854|"https://portalcbncampinas.com.br/2021/10/trescemiteriosdecampinasteraomemorialemhomenagemasvitimasdacovid19/"
+        LAST|P17|Q155
+        LAST|P571|+2021-10-29T00:00:00Z/11
+        LAST|P131|Q171617
+        LAST|P973|"https://portalcbncampinas.com.br/2021/10/trescemiteriosdecampinasteraomemorialemhomenagemasvitimasdacovid19/"
+        
+                LAST|P50|Q55743762
+                LAST|P186|Q34095
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-22.904287/-47.010748
+
+        
+        CREATE
+        LAST|Len|"Monumento e Memorial Virtual em homenagem às vítimas de COVID19 do Complexo Prudenciana"
+        LAST|Lpt|"Monumento e Memorial Virtual em homenagem às vítimas de COVID19 do Complexo Prudenciana"
+        LAST|Den|"COVID-19 memorial in Assis"
+        LAST|Dpt|"Memorial da COVID-19 em Assis"  
+        LAST|P31|Q110852723|S854|"https://www.assis.sp.gov.br/noticia/3601/escolajoseaugustoribeiroinauguramonumentoememorialvirtualemhomenagemasvitimasdecovid19docomplexoprudenciana"
+        LAST|P17|Q155
+        LAST|P571|+2021-09-10T00:00:00Z/11
+        LAST|P131|Q742227
+        LAST|P973|"https://www.assis.sp.gov.br/noticia/3601/escolajoseaugustoribeiroinauguramonumentoememorialvirtualemhomenagemasvitimasdecovid19docomplexoprudenciana"
+        
+                LAST|P50|Q115475220
+                LAST|P50|Q115475307
+                LAST|P50|Q115475312
+                LAST|P31|Q860861
+        LAST|P625|@-22.674854/-50.440154
+
+        
+        CREATE
+        LAST|Len|"Monumento em Homenagem aos Profissionais da Saúde (Piumhi/MG)"
+        LAST|Lpt|"Monumento em Homenagem aos Profissionais da Saúde (Piumhi/MG)"
+        LAST|Den|"COVID-19 memorial in Piumhi"
+        LAST|Dpt|"Memorial da COVID-19 em Piumhi"  
+        LAST|P31|Q110852723|S854|"https://prefeiturapiumhi.mg.gov.br/monumentoemhomenagemaosprofissionaisdasaudeeinauguradoeemocionapresentes/"
+        LAST|P17|Q155
+        LAST|P571|+2021-09-16T00:00:00Z/11
+        LAST|P131|Q1755744
+        LAST|P973|"https://prefeiturapiumhi.mg.gov.br/monumentoemhomenagemaosprofissionaisdasaudeeinauguradoeemocionapresentes/"
+        
+                LAST|P50|Q115475233
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+                LAST|P31|Q348
+          LAST|P2048|3.5U11573
+        LAST|P625|@-20.469018/-45.95749
+
+        
+        CREATE
+        LAST|Len|"Monumento Memorial da Romaria do Pai Eterno 2022"
+        LAST|Lpt|"Monumento Memorial da Romaria do Pai Eterno 2022"
+        LAST|Den|"COVID-19 memorial in Trindade"
+        LAST|Dpt|"Memorial da COVID-19 em Trindade"  
+        LAST|P31|Q110852723|S854|"https://www.paieterno.com.br/2022/06/23/piradomonumentomemorialdaromariadodivinopaieternoseraacesanoamanhecerdestasextafeira24/"
+        LAST|P17|Q155
+        LAST|P571|+2022-06-24T00:00:00Z/11
+        LAST|P131|Q985583
+        LAST|P973|"https://www.paieterno.com.br/2022/06/23/piradomonumentomemorialdaromariadodivinopaieternoseraacesanoamanhecerdestasextafeira24/"
+        
+                LAST|P50|Q115475240
+                LAST|P186|Q211367
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+          LAST|P2048|3U11573
+        LAST|P625|@-16.660111/-49.484696
+
+        
+        CREATE
+        LAST|Len|"Monumento Vítimas da COVID19  São Lourenço do Oeste (SC)"
+        LAST|Lpt|"Monumento Vítimas da COVID19  São Lourenço do Oeste (SC)"
+        LAST|Den|"COVID-19 memorial in São Lourenço do Oeste"
+        LAST|Dpt|"Memorial da COVID-19 em São Lourenço do Oeste"  
+        LAST|P31|Q110852723|S854|"https://web.archive.org/web/20220815141047/https://www.estacao104.com.br/pracadabandeiratemmemorialemonumentoemhomenagemasvitimasdacovid19/"
+        LAST|P17|Q155
+        LAST|P571|+2022-08-10T00:00:00Z/11
+        LAST|P131|Q1759029
+        LAST|P973|"https://web.archive.org/web/20220815141047/https://www.estacao104.com.br/pracadabandeiratemmemorialemonumentoemhomenagemasvitimasdacovid19/"
+        
+                LAST|P31|Q4364339
+                LAST|P31|Q3536096
+        LAST|P625|@-26.353363/-52.849372
+
+        
+        CREATE
+        LAST|Len|"Navegar é preciso, viver não é preciso"
+        LAST|Lpt|"Navegar é preciso, viver não é preciso"
+        LAST|Den|"COVID-19 memorial in Manaus"
+        LAST|Dpt|"Memorial da COVID-19 em Manaus"  
+        LAST|P31|Q110852723|S854|"https://portalunico.com/noaniversariode70anostceamerguemonumentoemhomenagemasvitimasdacovideprofissionaisdesaude/"
+        LAST|P17|Q155
+        LAST|P571|+2020-10-15T00:00:00Z/11
+        LAST|P131|Q40236
+        LAST|P973|"https://portalunico.com/noaniversariode70anostceamerguemonumentoemhomenagemasvitimasdacovideprofissionaisdesaude/"
+        
+                LAST|P50|Q115475253
+                LAST|P186|Q287
+                LAST|P186|Q10980448
+                LAST|P31|Q860861
+        LAST|P625|@-3.087594/-60.006745
+
+        
+        CREATE
+        LAST|Len|"Painel "Gratidão"  Curitiba"
+        LAST|Lpt|"Painel "Gratidão"  Curitiba"
+        LAST|Den|"COVID-19 memorial in Curitiba"
+        LAST|Dpt|"Memorial da COVID-19 em Curitiba"  
+        LAST|P31|Q110852723|S854|"https://revistacontemporartes.com.br/2021/07/05/gratidaocgbvidaurbanainaugurapaineldeazulejosemhomenagemaprofissionaisdalinhadefrenteemcuritiba/"
+        LAST|P17|Q155
+        LAST|P571|+2021-06-30T00:00:00Z/11
+        LAST|P131|Q4361
+        LAST|P973|"https://revistacontemporartes.com.br/2021/07/05/gratidaocgbvidaurbanainaugurapaineldeazulejosemhomenagemaprofissionaisdalinhadefrenteemcuritiba/"
+        
+                LAST|P186|Q28679020
+                LAST|P31|Q219423
+          LAST|P2048|2.1U11573
+          LAST|P2048|8U11573
+        LAST|P625|@-25.442276/-49.266512
+
+        
+        CREATE
+        LAST|Len|"Pedra Fundamental Memorial da Vida"
+        LAST|Lpt|"Pedra Fundamental Memorial da Vida"
+        LAST|Den|"COVID-19 memorial in Porto Nacional"
+        LAST|Dpt|"Memorial da COVID-19 em Porto Nacional"  
+        LAST|P31|Q110852723|S854|"https://ww2.uft.edu.br/index.php/ultimasnoticias/29513ufteprefeituraprestamhomenagemasvitimasdacovid19"
+        LAST|P17|Q155
+        LAST|P571|+2021-05-15T00:00:00Z/11
+        LAST|P131|Q1784315
+        LAST|P973|"https://ww2.uft.edu.br/index.php/ultimasnoticias/29513ufteprefeituraprestamhomenagemasvitimasdacovid19"
+        
+                LAST|P31|Q3536096
+                LAST|P31|Q4364339
+        LAST|P625|@-10.687725/-48.41325
+
+        
+        CREATE
+        LAST|Len|"Placa no SIMERS  Sindicato Médico do Rio Grande do Sul"
+        LAST|Lpt|"Placa no SIMERS  Sindicato Médico do Rio Grande do Sul"
+        LAST|Den|"COVID-19 memorial in Porto Alegre"
+        LAST|Dpt|"Memorial da COVID-19 em Porto Alegre"  
+        LAST|P31|Q110852723|S854|"http://diariogaucho.clicrbs.com.br/rs/diaadia/noticia/2021/03/placahomenageiamedicosquemorreramdecovid19norsparaquenaosejamesquecidos15688204.html"
+        LAST|P17|Q155
+        LAST|P571|+2021-03-11T00:00:00Z/11
+        LAST|P131|Q40269
+        LAST|P973|"http://diariogaucho.clicrbs.com.br/rs/diaadia/noticia/2021/03/placahomenageiamedicosquemorreramdecovid19norsparaquenaosejamesquecidos15688204.html"
+        
+                LAST|P186|Q146123
+                LAST|P31|Q4364339
+        LAST|P625|@-30.048934/-51.195452
+
+        
+        CREATE
+        LAST|Len|"Prefeito de Diamantino inaugura memorial em homenagem às vítimas da covid19"
+        LAST|Lpt|"Prefeito de Diamantino inaugura memorial em homenagem às vítimas da covid19"
+        LAST|Den|"COVID-19 memorial in Diamantino"
+        LAST|Dpt|"Memorial da COVID-19 em Diamantino"  
+        LAST|P31|Q110852723|S854|"https://www.abroncapopular.com.br/politica/prefeitodediamantinoinauguramemorialemhomenagemasvitimasdacovid19/20296"
+        LAST|P17|Q155
+        LAST|P571|+2021-09-28T00:00:00Z/11
+        LAST|P131|Q1259020
+        LAST|P973|"https://www.abroncapopular.com.br/politica/prefeitodediamantinoinauguramemorialemhomenagemasvitimasdacovid19/20296"
+        
+                LAST|P31|Q3536096
+                LAST|P31|Q4364339
+        LAST|P625|@-14.414481/-56.441274
+
+        
+        CREATE
+        LAST|Len|"Réquiem para os Tombados pela Covid19 na América Latina"
+        LAST|Lpt|"Réquiem para os Tombados pela Covid19 na América Latina"
+        LAST|Den|"COVID-19 memorial in São Paulo"
+        LAST|Dpt|"Memorial da COVID-19 em São Paulo"  
+        LAST|P31|Q110852723|S854|"https://memorial.org.br/evento/requiemparaostombadospelacovid19naamericalatinademariabonomi/"
+        LAST|P17|Q155
+        LAST|P571|+2021-10-27T00:00:00Z/11
+        LAST|P131|Q174
+        LAST|P973|"https://memorial.org.br/evento/requiemparaostombadospelacovid19naamericalatinademariabonomi/"
+        
+                LAST|P50|Q10325755
+                LAST|P186|Q11427
+                LAST|P31|Q860861
+          LAST|P2048|6U11573
+          LAST|P2048|4U11573
+        LAST|P625|@-23.526805/-46.662762
+
+        
+        CREATE
+        LAST|Len|"Vela no Cemitério Vaticano"
+        LAST|Lpt|"Vela no Cemitério Vaticano"
+        LAST|Den|"COVID-19 memorial in São José"
+        LAST|Dpt|"Memorial da COVID-19 em São José"  
+        LAST|P31|Q110852723|S854|"https://topsociety.blog.br/posts/3380/velagigantesetransformaemummemorialasvitimasdecovid19emsantacatarina#:~:text=O%20Grupo%20Vaticano%2C%20do%20segmento,de%20S%C3%A3o%20Jos%C3%A9%2C%20Santa%20Catarina."
+        LAST|P17|Q155
+        LAST|P571|+2020-06-10T00:00:00Z/11
+        LAST|P131|Q173849
+        LAST|P973|"https://topsociety.blog.br/posts/3380/velagigantesetransformaemummemorialasvitimasdecovid19emsantacatarina#:~:text=O%20Grupo%20Vaticano%2C%20do%20segmento,de%20S%C3%A3o%20Jos%C3%A9%2C%20Santa%20Catarina."
+        
+                LAST|P31|Q860861
+          LAST|P2048|18U11573
+        LAST|P625|@-27.5574/-48.696642
+
+        
+        CREATE
+        LAST|Len|"Memorial em homenagem às vítimas da COVID19  Cerqueira César (SP)"
+        LAST|Lpt|"Memorial em homenagem às vítimas da COVID19  Cerqueira César (SP)"
+        LAST|Den|"COVID-19 memorial in Cerqueira César"
+        LAST|Dpt|"Memorial da COVID-19 em Cerqueira César"  
+        LAST|P31|Q110852723|S854|"https://www.cerqueiracesar.sp.gov.br/noticia/1417/prefeiturainauguraomemorialemhomenagemasvitimasdacovid/"
+        LAST|P17|Q155
+        LAST|P571|+2022-06-26T00:00:00Z/11
+        LAST|P131|Q1750093
+        LAST|P973|"https://www.cerqueiracesar.sp.gov.br/noticia/1417/prefeiturainauguraomemorialemhomenagemasvitimasdacovid/"
+        
+                LAST|P31|Q4364339
+                LAST|P31|Q3536096
+        LAST|P625|@-26.353363/-52.849372
+
+        
+        CREATE
+        LAST|Len|"O silêncio do tempo"
+        LAST|Lpt|"O silêncio do tempo"
+        LAST|Den|"COVID-19 memorial in Florianópolis"
+        LAST|Dpt|"Memorial da COVID-19 em Florianópolis"  
+        LAST|P31|Q110852723|S854|"https://noticias.ufsc.br/2022/08/sintufscinauguramonumentomemorialasvitimasdacovid19/"
+        LAST|P17|Q155
+        LAST|P571|+2022-08-30T00:00:00Z/11
+        LAST|P131|Q132997
+        LAST|P973|"https://noticias.ufsc.br/2022/08/sintufscinauguramonumentomemorialasvitimasdacovid19/"
+        
+                LAST|P50|Q115475256
+                LAST|P31|Q860861
+                LAST|P31|Q4364339
+        LAST|P625|@-27.601087/-48.520818
+
+        
+        CREATE
+        LAST|Len|"Memorial da Luta contra a Covid19 na Rocinha"
+        LAST|Lpt|"Memorial da Luta contra a Covid19 na Rocinha"
+        LAST|Den|"COVID-19 memorial in Rio de Janeiro"
+        LAST|Dpt|"Memorial da COVID-19 em Rio de Janeiro"  
+        LAST|P31|Q110852723|S854|"https://falaroca.com/prefeituramemorialcovid19rocinha/"
+        LAST|P17|Q155
+        LAST|P571|+2021-01-15T00:00:00Z/11
+        LAST|P131|Q8678
+        LAST|P973|"https://falaroca.com/prefeituramemorialcovid19rocinha/"
+        
+                LAST|P186|Q146368
+                LAST|P31|Q4364339
+        LAST|P625|@-22.98959/-43.25235
+
+        
+        CREATE
+        LAST|Len|"Memorial da Saudade em Juazeiro "
+        LAST|Lpt|"Memorial da Saudade em Juazeiro "
+        LAST|Den|"COVID-19 memorial in Juazeiro"
+        LAST|Dpt|"Memorial da COVID-19 em Juazeiro"  
+        LAST|P31|Q110852723|S854|"http://acaopopular.net/jornal/petrolinaejuazeirocomemoramdiamundialdomeioambientecomplantiodemudasehomenagens/"
+        LAST|P17|Q155
+        LAST|P571|+2021-06-05T00:00:00Z/11
+        LAST|P131|Q753044
+        LAST|P973|"http://acaopopular.net/jornal/petrolinaejuazeirocomemoramdiamundialdomeioambientecomplantiodemudasehomenagens/"
+        
+                LAST|P31|Q3536096
+                LAST|P31|Q4364339
+        LAST|P625|@-9.40597/-40.49362
+
+        
+        CREATE
+        LAST|Len|"Memorial em memória às vítimas da COVID19"
+        LAST|Lpt|"Memorial em memória às vítimas da COVID19"
+        LAST|Den|"COVID-19 memorial in São Paulo"
+        LAST|Dpt|"Memorial da COVID-19 em São Paulo"  
+        LAST|P31|Q110852723|S854|"https://www1.folha.uol.com.br/equilibrioesaude/2022/10/memorialemhomenagemasvitimasdacovideinauguradonaavenidapaulistavejafotos.shtml"
+        LAST|P17|Q155
+        LAST|P571|+2022-10-23T00:00:00Z/11
+        LAST|P131|Q174
+        LAST|P973|"https://www1.folha.uol.com.br/equilibrioesaude/2022/10/memorialemhomenagemasvitimasdacovideinauguradonaavenidapaulistavejafotos.shtml"
+        
+                LAST|P31|Q219423
+          LAST|P2048|20U11573
+        LAST|P625|@-23.563039140466213/-46.65491353613743
+
+        
